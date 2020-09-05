@@ -5,4 +5,4 @@ Stack yang digunakan :
 Install dahulu dependency nya dengan menjalankan command `npm install` atau `yarn install`
 
 Untuk menjalankan :
-`NPM start
+`NPM start`
